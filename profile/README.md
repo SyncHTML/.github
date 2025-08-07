@@ -1,4 +1,4 @@
-<img src=https://synchtml.io/fav.svg height=64>
+<img src=//rtcode.io/.svg height=64>
 
-[SyncHTML.io](//rt.ht) is the next-gen, no-reload, real-time web<br>
+[RTCode.io](//rt.ht) is the next-gen, no-reload, real-time web<br>
 playground with instant two-way editor ⇄ output sync.
